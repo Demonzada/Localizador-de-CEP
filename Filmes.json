@@ -1,0 +1,18 @@
+[
+  {
+    "cep": "09132-325",
+    "logradouro": "Rua Vinte e Um de Fevereiro",
+    "complemento": "(C Hab CDHU)",
+    "bairro": "Jardim Santo André",
+    "uf": "SP",
+    "ddd": 11
+  },
+  {
+    "cep": "01310-100",
+    "logradouro": "Avenida Paulista",
+    "complemento": "de 612 a 1510 - lado par",
+    "bairro": "Bela Vista",
+    "uf": "SP",
+    "ddd": 11
+  }
+]
